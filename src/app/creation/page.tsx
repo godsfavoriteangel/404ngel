@@ -1,5 +1,3 @@
-'use client'
-
-export const creation = () => {
-    return <div>hi from creation page :3</div>
+export default function CreationPage() {
+  return <div>hi from creation page :3</div>
 }
